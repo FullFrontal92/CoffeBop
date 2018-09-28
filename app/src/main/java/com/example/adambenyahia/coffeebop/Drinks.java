@@ -11,7 +11,7 @@ public class Drinks {
 
             new Drinks("Latte","Tasty coffee with milk",R.drawable.latte),
             new Drinks("Cappucino","Flavored coffee",R.drawable.cup),
-            new Drinks("Filter","Morning coffee",R.drawable.Beans),
+            new Drinks("Filter","Morning coffee",R.drawable.beans),
 
     };
 
